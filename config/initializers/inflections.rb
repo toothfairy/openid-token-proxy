@@ -1,5 +1,5 @@
 require 'active_support/inflector'
 
-ActiveSupport::Inflector.inflections(:en) do |inflect|
+ActiveSupport::Inflector.inflections do |inflect|
   inflect.acronym 'OpenID'
 end
