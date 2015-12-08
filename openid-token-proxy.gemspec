@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'openid_connect', '~> 0.9.2'
   spec.add_dependency 'rack-oauth2', '~> 1.2.0'
-  spec.add_dependency 'rails', '~> 4.0'
+  spec.add_dependency 'rails', '~> 3.0'
 
   spec.add_development_dependency 'bundler', '~> 1.6'
   spec.add_development_dependency 'coveralls', '~> 0.7.12'
